@@ -1,0 +1,2120 @@
+fileFormatVersion: 2
+guid: aca43e67c7b74184b980b887fe527106
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 180
+        width: 141
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb813f753b499884a97c450921d25301
+      internalID: 1716231232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 600
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f3b2893f59ae3499f1efc0cc02dfe3
+      internalID: 585801873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 536
+        width: 733
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87668300e72fd84e879c32db5280e89
+      internalID: -1849759231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 288
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6f683b8ba9ee84b85496fc4b844be9
+      internalID: 799689515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 280
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f98ebe84bc4f148867f1cdc2f8dfb2
+      internalID: -1955899919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 401
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f7874fa39ab954a8879efc2e3db90e
+      internalID: -1586903742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 408
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39e273a6f2d1904d9eb291b5703d2f5
+      internalID: -610520682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 263
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4012f88603e126e4183140b7526946cc
+      internalID: 1851511444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 368
+        width: 398
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e5b14fe440c7d418706f252f1fe243
+      internalID: -74043413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 289
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59445496c0f7114792cdf322cf94c42
+      internalID: -33933556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 519
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c451ef9ed81e4eaecbc0f543e2ed9
+      internalID: -1310601015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 293
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be694f707d6090c4389a1045c93e0be7
+      internalID: -1303527421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 512
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0626918723363664da3bfb08b29fbde9
+      internalID: -1869800720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 495
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e496125350ad47ae72ddcd2be83a1
+      internalID: 1620604682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 816
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff6b3e833f8dd94e93abbf1d17f49f0
+      internalID: 1921793770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 340
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc725079aed942c4198d003a94567738
+      internalID: -662053767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 735
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2006e656c5a494680d1bb88f4e88ff
+      internalID: 1271385598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 351
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3d5f7ad7732874291b91e4e62d7139
+      internalID: -935845307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 845
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219d93c642855bd4f8436f402f4cf239
+      internalID: 1103318487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 334
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8405f8211ef77384fb55db7792190021
+      internalID: -1685505237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 826
+        width: 647
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51181ecfe90d4c4da550fe74c16e8f9
+      internalID: -694561389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 934
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3405568656a02204c829c57ab11b799f
+      internalID: 709370629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_34
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 945
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fce1134a9b169f49bc3adab1002456d
+      internalID: 887573470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 174
+        width: 200
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae57c5361bff548b82a0bd9314e572
+      internalID: -2076926241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_37
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 936
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d032befd5235248a55b6bd4092842f
+      internalID: -1862107172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 939
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6dac33e1a5ed04393a3a22279d9cd0
+      internalID: 1283751105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_39
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 351
+        width: 377
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5abc6d81749e184da01e2eaee14e00b
+      internalID: 1575088453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_40
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 238
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0691ce11edc3544978314634c557af
+      internalID: 1177128483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_42
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 232
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa46a0189f07f1a4e92a63a45df5cd1d
+      internalID: -708423208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_43
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 149
+        width: 210
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d30cc45d81bcb4bab8e82c0d579502
+      internalID: 538373897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 225
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5d4ec97fe9e8f44843fb4fa7277198
+      internalID: -1627097444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_47
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 249
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c066cb67a9e1248b024b8ae66be1fa
+      internalID: 1160091376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_48
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 362
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d46e17fcb1f9847b6dc65c494c1e05
+      internalID: 358198239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_49
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 265
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d769c272f4ab78342ad345137d7ca0e4
+      internalID: 1838794459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_50
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 304
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc064a9a83259c2419ca4d7568dfc937
+      internalID: 801669204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_51
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 938
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b99a8d67b71a5646b666a1404759599
+      internalID: 933691277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_52
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 935
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7fd102ba0ca6b42a9e3225fc715e29
+      internalID: 176774787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_54
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 952
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7175c4eb755cb4791e048b29291c26
+      internalID: 1007948139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_55
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 738
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7731a71a9c11012448d9602f7e2c98cc
+      internalID: -1979680863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_56
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 308
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a23fd452e6d20547b4a5c5c22d9b895
+      internalID: -1324879829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_57
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 736
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f0d0ef10197fa4a925f8ea39fa225a
+      internalID: 181757787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 939
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b39799ec05b844a220b3e48f961d8
+      internalID: 1516791629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_59
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 736
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7b3d10e8740344496eb441af134779
+      internalID: -1803975910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_60
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 733
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39da24066aa0dac428861ca05fb99397
+      internalID: 78204134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_61
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 256
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281e4261e53ab4746bc5a3e645c9a6ac
+      internalID: 1622003214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 195
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4314b27538a7b84695d1837877c0e79
+      internalID: 402805023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_63
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 266
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f4d4d6bf21bb546857e49932b71a63
+      internalID: -237042400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_64
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 232
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9331262ff3b9aa44d9e3f1bfd66b5e46
+      internalID: 1925997102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_65
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 158
+        width: 176
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ba0d76acad6840a176be8c848ced7
+      internalID: 1407689858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_66
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 724
+        width: 736
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94f0cc25042a9c429b7f7e17e40f456
+      internalID: 1719157991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_67
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 877
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4d2b9de8100464597859d63fccf2c6
+      internalID: -1101726144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_68
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 619
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3702332de46541849e56f02bfc1f7
+      internalID: 117608830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_69
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 585
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23025c2db5f5722429a837a34606b4db
+      internalID: -1924484697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_70
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 647
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c719c7c9fa1c044b425c4c6c549e65
+      internalID: -83540022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_71
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 297
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a782b2561a6cad4a8014130fd72a1ca
+      internalID: -882373195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_72
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 362
+        width: 635
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c21cabb2899df4fa68675b76264c31
+      internalID: 1177912349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_76
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 559
+        width: 604
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f65df54947c20649ba0f938a2463f9b
+      internalID: 1871187501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_77
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 269
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ccb34869aa6c043afb505601d8f55f
+      internalID: 1368223408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_78
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c2584a76cc60e408ae8be6148fbd2a
+      internalID: 1328522774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_79
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 265
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3254d5e64b9cf8049a39d57af406bb2d
+      internalID: 591580201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_80
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 183
+        width: 376
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd75fa818619d304492203e7d4055f16
+      internalID: 1065739998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_81
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 946
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7b4e16d5c808249a37284e3ea00e92
+      internalID: 439132058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_82
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 700
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92837aa30f28df44a9896fb791f24adf
+      internalID: 1551541094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_83
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 542
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7946d3316c4d047a65ef185e7b0b6b
+      internalID: -828374141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_84
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 940
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32430f7d493cc8d44a6e1cd3eb536112
+      internalID: -147132343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_85
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 953
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcd1bda97169344da3178d781ad8bdf
+      internalID: -1581781344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_86
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 346
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e8a4df3ffb23648963c56f463afe86
+      internalID: -360085499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_87
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 337
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ce29c402a79f64b8b14474db9b0ae0
+      internalID: -115178232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_88
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 321
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7281cec7f3b48f64cbabbb05c11c5cfd
+      internalID: -1268030156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_89
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 688
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d522a5b51d08254595ba5e844a53002
+      internalID: -80121453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_90
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 313
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2860ac5d100c74c99a16b874c7c65f
+      internalID: -1252928777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_93
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 695
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39b0b59058634f4d924b7e3f918be9e
+      internalID: 307106914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_94
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 529
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423cc202be08f34b89852ee93ce4e3f
+      internalID: 54528085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_95
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 718
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df22daa0306c3a24c861d68755eb5b45
+      internalID: -831095341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_96
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 350
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1f16d47456c74a8006aa3f8c0af49
+      internalID: -1744557237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_97
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 536
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ace9aa84f08464a88543691e6ac370
+      internalID: -1323224806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_98
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 304
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00a7874f9dd1804ca44af7504df141a
+      internalID: -1460739904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_100
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 946
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5048a1cded1eda642a23106e95e49b1a
+      internalID: -2029712348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_101
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a098cfc63b5aee74d8e1892607cd8409
+      internalID: 1179846592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_102
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 150
+        width: 136
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7745f97014a491b449192d014ad55811
+      internalID: 1468245114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_103
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 945
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64bae4be1294864f95eeadfe6be9121
+      internalID: -244012768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_107
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 600
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6993ff5de2916f64fba1d92c4a40522c
+      internalID: -1134267353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_110
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 615
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05867952dabc5ea44940235949498488
+      internalID: 1953743421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_113
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6797a7fa22e2c4fa575d28858c5e85
+      internalID: 141931492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_114
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 160
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b2ee15b6bf68642b6b42fc12e4a371
+      internalID: -907343314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_115
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 47
+        width: 398
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d5870090fe73478939d4211c34a1e
+      internalID: -847882451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_116
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 154
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39046810ff20534ea8f0b24187d2717
+      internalID: 1527851173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_122
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf02f3d095fdc2d46aa75bc5be64d739
+      internalID: -1340776672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface de jogo em estilo fantasia_123
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 22
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b0453f2627dd42a07857cfbc653d9
+      internalID: 1783389077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ec27c0244eb4cc14eb27a899d3ade6cf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Interface de jogo em estilo fantasia_0: -2005629117
+      Interface de jogo em estilo fantasia_1: 1716231232
+      Interface de jogo em estilo fantasia_10: -610520682
+      Interface de jogo em estilo fantasia_100: -2029712348
+      Interface de jogo em estilo fantasia_101: 1179846592
+      Interface de jogo em estilo fantasia_102: 1468245114
+      Interface de jogo em estilo fantasia_103: -244012768
+      Interface de jogo em estilo fantasia_104: -523008126
+      Interface de jogo em estilo fantasia_105: -400707748
+      Interface de jogo em estilo fantasia_106: -1782634699
+      Interface de jogo em estilo fantasia_107: -1134267353
+      Interface de jogo em estilo fantasia_108: 2104150956
+      Interface de jogo em estilo fantasia_109: 454095123
+      Interface de jogo em estilo fantasia_11: 1851511444
+      Interface de jogo em estilo fantasia_110: 1953743421
+      Interface de jogo em estilo fantasia_111: -1863771178
+      Interface de jogo em estilo fantasia_112: -636765901
+      Interface de jogo em estilo fantasia_113: 141931492
+      Interface de jogo em estilo fantasia_114: -907343314
+      Interface de jogo em estilo fantasia_115: -847882451
+      Interface de jogo em estilo fantasia_116: 1527851173
+      Interface de jogo em estilo fantasia_117: -1426679256
+      Interface de jogo em estilo fantasia_118: 1890419824
+      Interface de jogo em estilo fantasia_119: -221304363
+      Interface de jogo em estilo fantasia_12: -74043413
+      Interface de jogo em estilo fantasia_120: 920877098
+      Interface de jogo em estilo fantasia_121: 1294412136
+      Interface de jogo em estilo fantasia_122: -1340776672
+      Interface de jogo em estilo fantasia_123: 1783389077
+      Interface de jogo em estilo fantasia_13: 39983190
+      Interface de jogo em estilo fantasia_14: -33933556
+      Interface de jogo em estilo fantasia_15: 998266960
+      Interface de jogo em estilo fantasia_16: 1526714073
+      Interface de jogo em estilo fantasia_17: 869085458
+      Interface de jogo em estilo fantasia_18: -1310601015
+      Interface de jogo em estilo fantasia_19: -1303527421
+      Interface de jogo em estilo fantasia_2: 917044754
+      Interface de jogo em estilo fantasia_20: -1869800720
+      Interface de jogo em estilo fantasia_21: 1620604682
+      Interface de jogo em estilo fantasia_22: 1921793770
+      Interface de jogo em estilo fantasia_23: -540234376
+      Interface de jogo em estilo fantasia_24: 1121542635
+      Interface de jogo em estilo fantasia_25: -166980850
+      Interface de jogo em estilo fantasia_26: -662053767
+      Interface de jogo em estilo fantasia_27: 1271385598
+      Interface de jogo em estilo fantasia_28: -935845307
+      Interface de jogo em estilo fantasia_29: 1103318487
+      Interface de jogo em estilo fantasia_3: 416706435
+      Interface de jogo em estilo fantasia_30: -1685505237
+      Interface de jogo em estilo fantasia_31: -694561389
+      Interface de jogo em estilo fantasia_32: 263240638
+      Interface de jogo em estilo fantasia_33: 709370629
+      Interface de jogo em estilo fantasia_34: 887573470
+      Interface de jogo em estilo fantasia_35: 2010479298
+      Interface de jogo em estilo fantasia_36: -2076926241
+      Interface de jogo em estilo fantasia_37: -1862107172
+      Interface de jogo em estilo fantasia_38: 1283751105
+      Interface de jogo em estilo fantasia_39: 1575088453
+      Interface de jogo em estilo fantasia_4: 445068331
+      Interface de jogo em estilo fantasia_40: 1177128483
+      Interface de jogo em estilo fantasia_41: -248268435
+      Interface de jogo em estilo fantasia_42: -708423208
+      Interface de jogo em estilo fantasia_43: 538373897
+      Interface de jogo em estilo fantasia_44: -1627097444
+      Interface de jogo em estilo fantasia_45: 1224554743
+      Interface de jogo em estilo fantasia_46: -282897371
+      Interface de jogo em estilo fantasia_47: 1160091376
+      Interface de jogo em estilo fantasia_48: 358198239
+      Interface de jogo em estilo fantasia_49: 1838794459
+      Interface de jogo em estilo fantasia_5: 585801873
+      Interface de jogo em estilo fantasia_50: 801669204
+      Interface de jogo em estilo fantasia_51: 933691277
+      Interface de jogo em estilo fantasia_52: 176774787
+      Interface de jogo em estilo fantasia_53: -198342067
+      Interface de jogo em estilo fantasia_54: 1007948139
+      Interface de jogo em estilo fantasia_55: -1979680863
+      Interface de jogo em estilo fantasia_56: -1324879829
+      Interface de jogo em estilo fantasia_57: 181757787
+      Interface de jogo em estilo fantasia_58: 1516791629
+      Interface de jogo em estilo fantasia_59: -1803975910
+      Interface de jogo em estilo fantasia_6: -1849759231
+      Interface de jogo em estilo fantasia_60: 78204134
+      Interface de jogo em estilo fantasia_61: 1622003214
+      Interface de jogo em estilo fantasia_62: 402805023
+      Interface de jogo em estilo fantasia_63: -237042400
+      Interface de jogo em estilo fantasia_64: 1925997102
+      Interface de jogo em estilo fantasia_65: 1407689858
+      Interface de jogo em estilo fantasia_66: 1719157991
+      Interface de jogo em estilo fantasia_67: -1101726144
+      Interface de jogo em estilo fantasia_68: 117608830
+      Interface de jogo em estilo fantasia_69: -1924484697
+      Interface de jogo em estilo fantasia_7: 799689515
+      Interface de jogo em estilo fantasia_70: -83540022
+      Interface de jogo em estilo fantasia_71: -882373195
+      Interface de jogo em estilo fantasia_72: 1177912349
+      Interface de jogo em estilo fantasia_73: 1231228250
+      Interface de jogo em estilo fantasia_74: -1010701670
+      Interface de jogo em estilo fantasia_75: -1706463827
+      Interface de jogo em estilo fantasia_76: 1871187501
+      Interface de jogo em estilo fantasia_77: 1368223408
+      Interface de jogo em estilo fantasia_78: 1328522774
+      Interface de jogo em estilo fantasia_79: 591580201
+      Interface de jogo em estilo fantasia_8: -1955899919
+      Interface de jogo em estilo fantasia_80: 1065739998
+      Interface de jogo em estilo fantasia_81: 439132058
+      Interface de jogo em estilo fantasia_82: 1551541094
+      Interface de jogo em estilo fantasia_83: -828374141
+      Interface de jogo em estilo fantasia_84: -147132343
+      Interface de jogo em estilo fantasia_85: -1581781344
+      Interface de jogo em estilo fantasia_86: -360085499
+      Interface de jogo em estilo fantasia_87: -115178232
+      Interface de jogo em estilo fantasia_88: -1268030156
+      Interface de jogo em estilo fantasia_89: -80121453
+      Interface de jogo em estilo fantasia_9: -1586903742
+      Interface de jogo em estilo fantasia_90: -1252928777
+      Interface de jogo em estilo fantasia_91: 900469518
+      Interface de jogo em estilo fantasia_92: -1880685382
+      Interface de jogo em estilo fantasia_93: 307106914
+      Interface de jogo em estilo fantasia_94: 54528085
+      Interface de jogo em estilo fantasia_95: -831095341
+      Interface de jogo em estilo fantasia_96: -1744557237
+      Interface de jogo em estilo fantasia_97: -1323224806
+      Interface de jogo em estilo fantasia_98: -1460739904
+      Interface de jogo em estilo fantasia_99: 970250723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
