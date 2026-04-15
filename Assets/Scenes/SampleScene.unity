@@ -5398,7 +5398,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1334903451509425441, guid: fbd705ae7a5bd4a4fa4d8bfabb4827b5, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1668690389898312772, guid: fbd705ae7a5bd4a4fa4d8bfabb4827b5, type: 3}
       propertyPath: uiBackground
@@ -5602,7 +5602,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1334903451509425441, guid: 1b1c4244541069b4e99ce1d51b090a35, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4272767187815175280, guid: 1b1c4244541069b4e99ce1d51b090a35, type: 3}
       propertyPath: m_Pivot.x
@@ -10658,7 +10658,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1334903451509425441, guid: 55949c9e50b40174a8bab9b2f5746c7b, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4272767187815175280, guid: 55949c9e50b40174a8bab9b2f5746c7b, type: 3}
       propertyPath: m_Pivot.x
